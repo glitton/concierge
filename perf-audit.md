@@ -1,6 +1,6 @@
 # Front End Performance Auditing
 
-## This page shares best practices for Gatsby Performance Audits
+## This page shares best practices for Performance Audits
 
 Customer information has been removed to protect their privacy
 
